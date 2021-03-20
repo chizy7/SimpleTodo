@@ -28,6 +28,8 @@ Here's a walkthrough of implemented user stories:
 
 ![](https://i.imgur.com/kJd5g45.gif)
 
+GIF created with [EzGif](https://ezgif.com).
+
 ## Notes
 
 Describe any challenges encountered while building the app.
